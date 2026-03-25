@@ -1,0 +1,7 @@
+pillow~=12.1.1
+pip~=26.0.1
+attrs~=25.4.0
+darkdetect~=0.8.0
+CTkMessagebox~=2.7
+customtkinter~=5.2.2
+packaging~=26.0
