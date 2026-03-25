@@ -1,0 +1,27 @@
+# Bytecode / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# IDE / Editor
+.idea/
+*.iml
+*.iws
+
+# Logs
+*.log
+
+# OS-spezifisch
+.DS_Store
+Thumbs.db
+
+# Python-Pakete
+*.egg
+*.egg-info/
+dist/
+build/
